@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description-meta: "Publications and working papers by Gabriella (Gaby) Aboulafia on Medicaid, Medicare, the Affordable Care Act, and the politics of health insurance."
 ---
 
 ## Peer-reviewed publications

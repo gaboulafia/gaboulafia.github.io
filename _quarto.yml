@@ -4,10 +4,20 @@ project:
   resources:              # copied into docs/ on every render
     - CNAME               # tells GitHub Pages your custom domain
     - .nojekyll           # stops GitHub from re-processing the built site
+    - robots.txt
     - cv.pdf
 
 website:
   title: "Gabriella Aboulafia"
+  site-url: https://gaboulafia.com     # lets Quarto build sitemap.xml
+  description: >-
+    Gabriella (Gaby) Aboulafia is a PhD candidate in Health Policy at Harvard
+    University studying Medicaid, Medicare, and the Affordable Care Act's
+    Marketplaces, and how experiences with health insurance shape political
+    attitudes and behavior.
+  image: profile.jpg                   # thumbnail in link previews
+  open-graph: true                     # link previews on Bluesky, Slack, etc.
+  twitter-card: true
   navbar:
     left:
       - href: index.qmd
@@ -24,3 +34,4 @@ format:
     theme: [cosmo, theme.scss]   # cosmo as the base, theme.scss for fonts
     css: styles.css
     toc: false
+    include-in-header: head.html # schema.org Person markup

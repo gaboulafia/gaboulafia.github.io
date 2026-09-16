@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description-meta: "Courses taught by Gabriella (Gaby) Aboulafia at Harvard University and MIT."
 ---
 
 ## Harvard University

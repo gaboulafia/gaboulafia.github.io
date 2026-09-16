@@ -1,5 +1,6 @@
 ---
 title: "Gabriella Aboulafia"
+description-meta: "Gabriella (Gaby) Aboulafia is a PhD candidate in Health Policy at Harvard University studying Medicaid, Medicare, and the Affordable Care Act's Marketplaces."
 about:
   template: trestles
   image: profile.jpg
