@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs        # GitHub Pages serves from /docs on the main branch
+  resources:              # copied into docs/ on every render
+    - CNAME               # tells GitHub Pages your custom domain
+    - .nojekyll           # stops GitHub from re-processing the built site
+    - cv.pdf
+
+website:
+  title: "Gabriella Aboulafia"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.pdf
+        text: CV
+
+format:
+  html:
+    theme: [cosmo, theme.scss]   # cosmo as the base, theme.scss for fonts
+    css: styles.css
+    toc: false

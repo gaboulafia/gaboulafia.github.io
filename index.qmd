@@ -1,0 +1,46 @@
+---
+title: "Gabriella Aboulafia"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gaboulafia@g.harvard.edu
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=ynljUeAAAAAJ
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/gabyaboulafia.bsky.social
+---
+
+Hello! I'm a fourth-year PhD candidate in the Political Analysis track of
+Harvard University's PhD Program in Health Policy.
+
+My research examines how the design and implementation of health insurance
+programs shape both coverage and access outcomes, and people's experiences with
+government. I'm particularly interested in how those experiences, in turn,
+shape political attitudes and behavior. Most of my work focuses on the Medicaid
+and Medicare programs, as well as the Affordable Care Act's Marketplaces. I use
+large administrative and survey datasets alongside quasi-experimental methods
+to study these questions.
+
+I'm also interested in teaching and in helping students connect questions about
+health policy and politics to broader questions about institutions, power, and
+inequality.
+
+I'm currently a Fellow at the Economic Security Project. Before graduate school,
+I worked as a Program Assistant for Health Care Coverage and Access at the
+Commonwealth Fund and as a Special Assistant to the Assistant Secretary for
+Legislation at the U.S. Department of Health and Human Services during the
+summer of 2022.
+
+I have a Master in Public Policy from the Harvard Kennedy School (2023), and a
+BS in Public Health through the Department of Health Policy and Management from
+UNC-Chapel Hill (2019).
+
+I'm originally from Houston, Texas, and currently live in Cambridge,
+Massachusetts.

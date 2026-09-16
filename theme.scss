@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+// Charis SIL — an open typeface built on Bitstream Charter, which is what
+// the CV (\usepackage[charter]{mathdesign}) is set in. Site and PDF match.
+$web-font-path: "https://fonts.googleapis.com/css2?family=Charis+SIL:ital,wght@0,400;0,700;1,400;1,700&display=swap";
+
+$font-family-sans-serif: "Charis SIL", Charter, Georgia, "Times New Roman", serif;
+$font-family-serif:      "Charis SIL", Charter, Georgia, "Times New Roman", serif;
+
+// Charis has a large x-height, so it reads bigger than a sans at the same
+// nominal size. Nudge down slightly and open up the leading.
+$font-size-base:   1.0rem;
+$line-height-base: 1.65;
+
+$headings-font-weight: 700;
+
+/*-- scss:rules --*/
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Keep code monospaced — Charis should not leak into code samples.
+code, pre, kbd, samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
