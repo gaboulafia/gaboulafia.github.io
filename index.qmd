@@ -4,7 +4,7 @@ description-meta: "Gabriella (Gaby) Aboulafia is a PhD candidate in Health Polic
 about:
   template: trestles
   image: profile.jpg
-  image-shape: rounded
+  image-shape: round
   image-width: 15em
   links:
     - icon: envelope
