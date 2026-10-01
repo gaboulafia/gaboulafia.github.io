@@ -12,6 +12,6 @@ profile-original.heic
 newpic.heic
 profile-previous.jpg
 
-# CV source file; published as cv.pdf
-Aboulafia_Sept2026.pdf
-Aboulafia_Oct2026.pdf
+# CV source files; published as cv.pdf. Glob so new months are covered
+# automatically -- publish.sh runs `git add -A` and will otherwise commit them.
+Aboulafia_*.pdf
