@@ -3,24 +3,29 @@ title: "Research"
 description-meta: "Publications and working papers by Gabriella (Gaby) Aboulafia on Medicaid, Medicare, the Affordable Care Act, and the politics of health insurance."
 ---
 
-## Peer-reviewed research
+## Peer-reviewed publications
 
 Aboulafia, Gabriella, Jonathan Gruber, and Benjamin D. Sommers. "[The Rise and
 Fall (and Rise) of the Affordable Care Act: Varying Impacts on Coverage Over
 Time and Place](https://doi.org/10.1016/j.jhealeco.2026.103188)."
 *Journal of Health Economics* 2026;110:103188.
 
-- Cited in [Brief of Economists and Scholars of Health Policy as Amici Curiae in Support of Plaintiffs-Appellees](https://litigationtracker.law.georgetown.edu/wp-content/uploads/2026/07/City-of-Columbus-v.-Robert-Kennedy-Jr._2026.09.08_AMICUS-BRIEF-ECONOMISTS-AND-SCHOLARS-OF-HEALTH-POLICY.pdf), *City of Columbus v. Kennedy*, No. 26-1938 (4th Cir. Sept. 8, 2026).
+- Cited in [an amicus brief](https://litigationtracker.law.georgetown.edu/wp-content/uploads/2026/07/City-of-Columbus-v.-Robert-Kennedy-Jr._2026.09.08_AMICUS-BRIEF-ECONOMISTS-AND-SCHOLARS-OF-HEALTH-POLICY.pdf) in *City of Columbus v. Kennedy* (4th Cir. 2026), challenging ACA enrollment restrictions
+- Covered by [Bloomberg](https://www.bloomberg.com/opinion/articles/2025-07-24/the-quiet-obamacare-overhaul-needs-a-loud-reveal)
 
 Aboulafia, Gabriella, Amanda Chen, and David Grabowski. "[Asset Spend-Down and
 Medicaid Enrollment in Nursing Homes](https://doi.org/10.1001/jamanetworkopen.2025.46876)."
 *JAMA Network Open* 2025;8(12):e2546876.
 
-- Cited by U.S. Senate Finance Committee in "[Delivering an Affordable Home Care Guarantee for American Families](https://www.finance.senate.gov/imo/media/doc/052026_dear_colleague_long_term_care.pdf)."
+- Cited in [a letter](https://www.finance.senate.gov/imo/media/doc/052026_dear_colleague_long_term_care.pdf) by Senate Finance Committee members proposing long-term care reforms (2026)
 
 Aboulafia, Gabriella and Daniel Schneider. "[Employer-Sponsored Health Insurance
 for Workers in the Hourly Service Sector](https://doi.org/10.1001/jamahealthforum.2025.4747)."
 *JAMA Health Forum* 2025;6(11):e254747.
+
+Aboulafia, Gabriella and Adrianna McIntyre. "[How Should Children's Medicaid
+Eligibility Be Monitored?](https://doi.org/10.1001/amajethics.2025.686)"
+*AMA Journal of Ethics* 2025;27(9):E686–694.
 
 Smith, Rebecca B., Gabriella Aboulafia, and Benjamin D. Sommers. "[Who Enrolls in
 Coverage and Who Remains Uninsured? Medicaid Take-Up Before and After the
@@ -44,27 +49,23 @@ Data on Unwinding Continuous Medicaid Coverage](https://doi.org/10.1056/NEJMp231
 
 ## Works in progress
 
-Aboulafia, Gabriella, Benjamin D. Sommers, Daniel Schneider, and Adrianna
-McIntyre. "Scheduling Volatility as a Barrier to Medicaid Work Requirement
-Compliance Among Hourly Service-Sector Workers."
-*Revise and resubmit, Health Affairs.*
+Scheduling Volatility as a Barrier to Medicaid Work Requirement Compliance
+Among Service-Sector Workers (Revise and Resubmit at *Health Affairs*, with
+Benjamin Sommers, Daniel Schneider, and Adrianna McIntyre)
 
-Trends in Political Advertising of Health Issues from 2012–2022. With Nolan
-Kavanagh and Adrianna McIntyre.
+The Electoral Feedbacks of Medicare in an Era of Privatization (with Adrianna
+McIntyre)
 
-The Policy Feedback Effects of Medicare Advantage. With Adrianna McIntyre.
+Trends in Political Advertising of Health Issues from 2012–2022 (with Nolan
+Kavanagh and Adrianna McIntyre)
 
-The Political Consequences of the Expiration of the Enhanced Marketplace
-Subsidies. With Adrianna McIntyre.
+The Political Consequences of the Enhanced Marketplace Subsidies Expiration
+(with Adrianna McIntyre)
 
-Tort Immunity and Nursing Home Outcomes. With Deepon Bhaumik, David Grabowski,
-and Jill Horwitz.
+Tort Immunity and Nursing Home Outcomes (with Deepon Bhaumik, David Grabowski,
+and Jill Horwitz)
 
 ## Selected other writing
-
-Aboulafia, Gabriella and Adrianna McIntyre. "[How Should Children's Medicaid
-Eligibility Be Monitored?](https://doi.org/10.1001/amajethics.2025.686)"
-*AMA Journal of Ethics* 2025;27(9):E686–694.
 
 Aboulafia, Gabriella, Jonathan Gruber, and Benjamin D. Sommers. "[The Past and
 Future of Medicaid and the Affordable Care Act—Support or Sabotage?](https://doi.org/10.1001/jama.2025.7109)"
@@ -79,5 +80,5 @@ Medicaid coverage ends](https://www.statesman.com/story/opinion/columns/2023/07/
 
 Collins, Sara R., Munira Z. Gunja, and Gabriella N. Aboulafia. "[U.S. Health
 Insurance Coverage in 2020: A Looming Crisis in Affordability—Findings from the
-Biennial Health Insurance Survey, 2020](https://www.commonwealthfund.org/publications/issue-briefs/2020/aug/looming-crisis-health-coverage-2020-biennial)."
+Biennial Health Insurance Survey](https://www.commonwealthfund.org/publications/issue-briefs/2020/aug/looming-crisis-health-coverage-2020-biennial)."
 Survey brief, *The Commonwealth Fund*, August 2020.
